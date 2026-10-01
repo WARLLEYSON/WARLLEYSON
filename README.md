@@ -18,7 +18,11 @@ Construo interfaces responsivas, acessíveis e fáceis de usar. Estou aprendendo
 
 ## Tecnologias
 
-**Uso e estudo:** HTML, CSS, JavaScript e React  
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Ícones de Python, HTML, CSS e JavaScript">
+</p>
+
+**Estudando e praticando:** Python, HTML, CSS, JavaScript e React  
 **Ferramentas:** Git e GitHub
 
 ## No que estou trabalhando
